@@ -9,5 +9,5 @@ io redirections and filters
 4-lastlines: prints last lines of a file
 5-firstlines: prints first lines of a file
 5-third line: prints third line of a file
-...
+
 
